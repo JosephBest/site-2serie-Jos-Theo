@@ -3,9 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
+    <title>Hello World com Flor</title>
 </head>
 <body>
     <h1>Hello world</h1>
+    
+    <!-- Imagem de uma flor usando um link gratuito do Unsplash -->
+    <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" 
+         alt="Uma bela flor colorida" 
+         width="400" 
+         height="300">
+    
+    <p>🌸 Hello world com uma linda flor! 🌸</p>
 </body>
 </html>
